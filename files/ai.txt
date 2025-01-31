@@ -1,0 +1,28 @@
+The U.S. stock market is reacting to a combination of economic data, geopolitical tensions, and corporate earnings reports:
+
+1. **Tariff Deadlines**: Trump's proposed tariffs on Canada and Mexico are expected to be announced next week, with markets pricing in a potential 40% increase in futures for U.S.-Canada trade.
+
+2. **Stock Market Performance**:
+   - The S&P 500 (^GSPC) is down 0.53%, with the Dow Jones Industrial Average (^DJI) trailing behind at -0.77%.
+   - Tech-heavy sectors, including Apple (AAPL) and NVIDIA (NVDA), are underperforming (-1.53% and -2.87% respectively).
+
+3. **Earnings Reports**:
+   - Meta Platforms (META) is trading lower after missing earnings expectations, with a Street Price of $158.71 versus a current tick price of $60.23.
+   - Energy-focused companies like Olin (OLN) and natural gas imports (GAS) are also seeing short-term declines.
+
+4. **Inflation Data**:
+   - December PCE (Personal Consumption Expenditures) is mixed, with core inflation meeting expectations but showing lag in MM (Month-to-Month).
+
+5. **Supply Chain Issues**: 
+   - Companies like Olin and Walgreens Boots Alliance are facing supply chain disruptions affecting their Q4 results.
+   - Energy prices remain stable, providing some stabilization amid inflation concerns.
+
+6. **Global Trade**: The U.S.-Canada trade deal is viewed as critical for avoiding a trade war, with both sides preparing to sign the agreement if Trump's deadline is met.
+
+7. **Bond Markets**: U.S. Treasuries are outperforming due to cautious Fed monetary policy and optimism about inflation data, which aligns with the Federal Reserve's 2% target.
+
+8. **Energy Exports**:
+   - Oil from Saudi Arabia (SHEL) sees strength amid geopolitical tensions.
+   - Natural gas imports (GAS) show resilience despite weaker U.S. demand reports.
+
+Overall, markets are balancing risks tied to inflation, tariffs, and corporate earnings with potential stabilization in energy prices and supply chain dynamics.

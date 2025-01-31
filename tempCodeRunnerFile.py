@@ -1,0 +1,1 @@
+fNews = open("./files/news.txt", "w")
